@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+	<string id="30001">Préférences Ananoos Streaming</string>
+	<string id="30002">Mot de passe :</string>
+	<string id="30003">Activer le mode debug</string>
+	<string id="30004">Impossible d'accéder au compte</string>
+	<string id="30005">Vous devez saisir votre mot de passe</string>
+	<string id="30006">Connexion requise</string>
+	<string id="30007">Ananoos est un service payant nécessitant la possession</string>
+	<string id="30008">d'un compte valide et actif. Vous pouvez vous inscrire</string>
+	<string id="30009">sur http://www.ananoos.com.</string>
+	<string id="30010">Valider</string>
+	<string id="30011">Connexion en cours...</string>
+	<string id="30012">Nom d'utilisateur :</string>
+	<string id="30013">Se déconnecter</string>
+	<string id="30015">Connexion</string>
+	<string id="30016">Connexion Ananoos reussie</string>
+	<string id="30017">Échec de la connexion...</string>
+	<string id="30018">Veuillez vérifier vos informations et réessayer.</string>
+	<string id="30019">Lecture impossible</string>
+	<string id="30020">Impossible de lire ce fichier</string>
+	<string id="30021">Navigation impossible</string>
+	<string id="30022">Impossible de lister vos fichiers</string>
+	<string id="30023">Un gros problème est survenu</string>
+	<string id="30024">Le plugin ne peut pas démarrer correctement.[br]Appuyez sur la touche "Echap" pour quitter</string>
+</strings>
