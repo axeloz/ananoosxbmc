@@ -1,12 +1,10 @@
 ananoosxbmc
 ===========
 
-A XBMC plugin for Ananoos.
+```
+== NOTE ==
+This plugin has never been released in production
+Ananoos VPN is now down forever
+```
+
  
-The plugin itself WILL NOT WORK as the new version of Ananoos is still pending release.
-
-DO NOT TRY THIS PLUGIN and complain about it. 
-
-Thanks
-
-Axel
